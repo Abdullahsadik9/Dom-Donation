@@ -1,4 +1,3 @@
-// Donation Available Amoount
 function getAvailableAmountId(id) {
   const availableAmount = parseFloat(document.getElementById(id).innerText);
   return availableAmount;
